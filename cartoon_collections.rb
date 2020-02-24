@@ -1,7 +1,7 @@
 def roll_call_dwarves(array)
   roll_call_dwarves.collect do |name|
     puts name 
-  
+  end 
 end
 
 def summon_captain_planet
